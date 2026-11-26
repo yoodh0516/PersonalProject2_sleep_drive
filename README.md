@@ -28,4 +28,4 @@
 
 ## 실행
 
-라즈베리파이에서 `pip install flask opencv-python gpiozero` 후 `python app.py`를 실행하고, 브라우저에서 `http://<라즈베리파이 IP>:<포트>/`로 접속합니다.
+라즈베리파이에서 `pip install flask opencv-python gpiozero` 후 `python app.py`를 실행하고, 브라우저에서 `http://<라즈베리파이 IP>:5000/`로 접속합니다.
